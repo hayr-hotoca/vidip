@@ -1,0 +1,14 @@
+export const LANGUAGE_LOCALSTORAGE = "language_localstorage";
+export const DISPLAY_THEME_LOCALSTORAGE = "display_theme_localstorage";
+export const SYSTEM_BASED = "system_based_ui";
+export const DARK_MODE = "dark_ui";
+export const LIGHT_MODE = "light_ui";
+export const APP_VERSION = "1.0.0";
+export const COMPRESS_LEVEL = 23;
+export const IMAGE_MEDIA = "Image";
+export const VIDEO_MEDIA = "Video";
+export const MAX_FILES = 5;
+export const PREMIUM_TOKENS_USED_STORE = 'premium_tokens_used';
+export const PREMIUM_TOKENS_RESET_AT_STORE = 'premium_tokens_reset_at';
+export const LICENSE_KEY_STORE = "license_key";
+export const PC_IAP_LIFETIME_PRODUCT_ID = "Vidip Lifetime Test";

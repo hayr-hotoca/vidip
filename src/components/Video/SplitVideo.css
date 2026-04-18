@@ -1,0 +1,13 @@
+.split-btn {
+  width: 100%;
+  background-color: #9c27b0;
+}
+
+.split-btn:hover {
+  background-color: #7b1fa2;
+}
+
+.split-btn:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+}
