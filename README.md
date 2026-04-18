@@ -1,3 +1,5 @@
+![Vidip video, image processing app Logo](https://i.ibb.co/vryJCmC/vidip.png "Vidip video, image processing app")
+
 # Install environment
 
 NodeJS version >= 20
